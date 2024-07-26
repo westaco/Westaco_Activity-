@@ -1,0 +1,5 @@
+th:
+  field_activity: กิจกรรม+
+  label_activity: กิจกรรม+
+  label_activity_date: "Activity date"
+  label_executed_by: "Executed by"

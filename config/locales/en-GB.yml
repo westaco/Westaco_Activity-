@@ -1,0 +1,5 @@
+en-GB:
+  field_activity: Activity+
+  label_activity: Activity+
+  label_activity_date: "Activity date"
+  label_executed_by: "Executed by"

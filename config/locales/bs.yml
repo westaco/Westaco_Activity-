@@ -1,0 +1,5 @@
+bs:
+  field_activity: Operacija+
+  label_activity: Aktivnost+
+  label_activity_date: "Activity date"
+  label_executed_by: "Executed by"

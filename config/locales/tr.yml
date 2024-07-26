@@ -1,0 +1,5 @@
+tr:
+  field_activity: Faaliyet+
+  label_activity: Faaliyet+
+  label_activity_date: "Activity date"
+  label_executed_by: "Executed by"

@@ -1,0 +1,5 @@
+ko:
+  field_activity: 작업종류+
+  label_activity: 작업내역+
+  label_activity_date: "Activity date"
+  label_executed_by: "Executed by"

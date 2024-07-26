@@ -1,0 +1,13 @@
+input.button-apply {
+  border: none;
+  color: #c07600;
+  font-size: 0.9em;
+  background-color: transparent;
+  background-image: url(../images/toggle_check.png) !important;
+  background-repeat: no-repeat !important;
+  padding-left: 20px !important;
+}
+input.button-apply:hover {
+  background-color: transparent;
+  text-decoration: underline;
+}
