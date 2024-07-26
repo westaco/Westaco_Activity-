@@ -1,3 +1,5 @@
 = westaco_activity
 
-Description goes here
+Added the possibility to define new statuses for Versions.
+Added "Total time" in "Roadmap section - calculation of Version duration based on statuses (since opening the version until at the current time). Other improvements.
+Development sponsored by *Westaco* and executed by *Yanto Daryanto* .
